@@ -1,2 +1,0 @@
-# Yugen
-Yugen portfolio
